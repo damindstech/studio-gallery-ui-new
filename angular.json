@@ -25,11 +25,19 @@
               "src/assets"
             ],
             "styles": [
+              "src/assets/alime-theme/css/bootstrap.min.css",
+              "src/assets/alime-theme/css/animate.css",
+              "src/assets/alime-theme/css/default-assets/classy-nav.css",
+              "src/assets/alime-theme/css/owl.carousel.min.css",
+              "src/assets/alime-theme/css/magnific-popup.css",
+              "src/assets/alime-theme/css/font-awesome.min.css",
+              "src/assets/alime-theme/css/default-assets/themify-icons.css",
               "src/assets/alime-theme/style.css",
-              "src/assets/alime-theme/css/default-assets/classy-nav.css"
+              "src/assets/alime-theme/css/style.css"
             ],
             "scripts": [
               "src/assets/alime-theme/js/jquery.min.js",
+              "src/assets/alime-theme/js/owl.carousel.min.js",
               "src/assets/alime-theme/js/popper.min.js",
               "src/assets/alime-theme/js/bootstrap.min.js",
               "src/assets/alime-theme/js/alime.bundle.js",
